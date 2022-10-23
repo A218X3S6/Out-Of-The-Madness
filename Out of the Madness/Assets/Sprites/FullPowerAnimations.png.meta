@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 83e320a45f38945459b497e2f0ebae62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1077693074046314115
+    second: FullPowerAnimations_0
+  - first:
+      213: 8698544752370078688
+    second: FullPowerAnimations_1
+  - first:
+      213: 3357232096681473330
+    second: FullPowerAnimations_2
+  - first:
+      213: -2725523466293625124
+    second: FullPowerAnimations_3
+  - first:
+      213: -1899529944552147316
+    second: FullPowerAnimations_4
+  - first:
+      213: 4961277922745452619
+    second: FullPowerAnimations_5
+  - first:
+      213: -2763046511458655634
+    second: FullPowerAnimations_6
+  - first:
+      213: -1046072186971789564
+    second: FullPowerAnimations_7
+  - first:
+      213: -1295175409635156363
+    second: FullPowerAnimations_8
+  - first:
+      213: 6196853819896760304
+    second: FullPowerAnimations_9
+  - first:
+      213: -5272713396269398554
+    second: FullPowerAnimations_10
+  - first:
+      213: -7479406650652471114
+    second: FullPowerAnimations_11
+  - first:
+      213: -4040183254399797986
+    second: FullPowerAnimations_12
+  - first:
+      213: 9184927739145977031
+    second: FullPowerAnimations_13
+  - first:
+      213: 5684553226794477972
+    second: FullPowerAnimations_14
+  - first:
+      213: 3433161748577785876
+    second: FullPowerAnimations_15
+  - first:
+      213: 4830761233798435906
+    second: FullPowerAnimations_16
+  - first:
+      213: -470520690280148869
+    second: FullPowerAnimations_17
+  - first:
+      213: -8791179425686374594
+    second: FullPowerAnimations_18
+  - first:
+      213: 6103594477265793643
+    second: FullPowerAnimations_19
+  - first:
+      213: -8958542464141790262
+    second: FullPowerAnimations_20
+  - first:
+      213: 4188046217328193122
+    second: FullPowerAnimations_21
+  - first:
+      213: -3981456458988088741
+    second: FullPowerAnimations_22
+  - first:
+      213: -614478165265210871
+    second: FullPowerAnimations_23
+  - first:
+      213: -4183499257110647794
+    second: FullPowerAnimations_24
+  - first:
+      213: 2167748689715179004
+    second: FullPowerAnimations_25
+  - first:
+      213: 851080141751078357
+    second: FullPowerAnimations_26
+  - first:
+      213: 2456604455243625354
+    second: FullPowerAnimations_27
+  - first:
+      213: 5679549769587073217
+    second: FullPowerAnimations_28
+  - first:
+      213: 382688270783713444
+    second: FullPowerAnimations_29
+  - first:
+      213: -410079378919274767
+    second: FullPowerAnimations_30
+  - first:
+      213: -6733567504183626590
+    second: FullPowerAnimations_31
+  - first:
+      213: 3340418807745734067
+    second: FullPowerAnimations_32
+  - first:
+      213: 6291117609050336861
+    second: FullPowerAnimations_33
+  - first:
+      213: 4448313168477388165
+    second: FullPowerAnimations_34
+  - first:
+      213: -1800171507301336700
+    second: FullPowerAnimations_35
+  - first:
+      213: -1759206468425769111
+    second: FullPowerAnimations_36
+  - first:
+      213: 5354393158711780783
+    second: FullPowerAnimations_37
+  - first:
+      213: -7567962378298942059
+    second: FullPowerAnimations_38
+  - first:
+      213: -6953627121491685736
+    second: FullPowerAnimations_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FullPowerAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ed67142cb4fe00800000000000000
+      internalID: 1077693074046314115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 145
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35bdb8d5077b870800000000000000
+      internalID: 8698544752370078688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 145
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353d37fdc8479e20800000000000000
+      internalID: 3357232096681473330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 145
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb39c09defc2ad0800000000000000
+      internalID: -2725523466293625124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8670ce549383a5e0800000000000000
+      internalID: -1899529944552147316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480b391cfff9d440800000000000000
+      internalID: 4961277922745452619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ef9a46dfa7a9d0800000000000000
+      internalID: -2763046511458655634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407612663ea9b71f0800000000000000
+      internalID: -1046072186971789564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e10eab3dc960ee0800000000000000
+      internalID: -1295175409635156363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f708f387b5aff550800000000000000
+      internalID: 6196853819896760304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e54be42a1f83d6b0800000000000000
+      internalID: -5272713396269398554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05a21674fc33890800000000000000
+      internalID: -7479406650652471114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15b4066cb26ee7c0800000000000000
+      internalID: -4040183254399797986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7d6b6d1b677f70800000000000000
+      internalID: 9184927739145977031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a2edaa0793ee40800000000000000
+      internalID: 5684553226794477972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181070bb6a05af20800000000000000
+      internalID: 3433161748577785876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24498476fbf4a0340800000000000000
+      internalID: 4830761233798435906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b705164dcef5879f0800000000000000
+      internalID: -470520690280148869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bd37d3e47ff580800000000000000
+      internalID: -8791179425686374594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b67eb6d254b450800000000000000
+      internalID: 6103594477265793643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 75
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3739fd71ddca380800000000000000
+      internalID: -8958542464141790262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee3ce68ddee1a30800000000000000
+      internalID: 4188046217328193122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529459f1760fb8c0800000000000000
+      internalID: -3981456458988088741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90222254d5fe877f0800000000000000
+      internalID: -614478165265210871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c2fcd379931f5c0800000000000000
+      internalID: -4183499257110647794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdaac4b2f3651e10800000000000000
+      internalID: 2167748689715179004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd467431e4afcb00800000000000000
+      internalID: 851080141751078357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8330748cbc971220800000000000000
+      internalID: 2456604455243625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a3648c60d1de40800000000000000
+      internalID: 5679549769587073217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a095c764f49f4500800000000000000
+      internalID: 382688270783713444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6cdc14afa1f4af0800000000000000
+      internalID: -410079378919274767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4750ae7009d82a0800000000000000
+      internalID: -6733567504183626590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5e7b4153d8b5e20800000000000000
+      internalID: 3340418807745734067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e66a7322a8e4750800000000000000
+      internalID: 6291117609050336861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d79c032459bbd30800000000000000
+      internalID: 4448313168477388165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48936844d818407e0800000000000000
+      internalID: -1800171507301336700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f99e2a90b0697e0800000000000000
+      internalID: -1759206468425769111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52cc48530ae4a40800000000000000
+      internalID: 5354393158711780783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d98ff405239f690800000000000000
+      internalID: -7567962378298942059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullPowerAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e47f299f0cf7f90800000000000000
+      internalID: -6953627121491685736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
